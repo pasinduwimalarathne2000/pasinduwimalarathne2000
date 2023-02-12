@@ -100,7 +100,7 @@
 
 
 
-<div align="center">
+<div align="left">
 <img src="https://komarev.com/ghpvc/?username=pasinduwimalarathne2000&&style=flat-square" align="center" />
 </div>  
   
