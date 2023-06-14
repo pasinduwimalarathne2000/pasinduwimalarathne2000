@@ -6,7 +6,7 @@
 </div>  
   
 
-### <div align="center">A passionate full-stack developer</div>  
+### <div align="center">A passionate back-end developer</div>  
   
 
 - 🌱Contact me pasinduwimalarathne2000@gmail.com  
